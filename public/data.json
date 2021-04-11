@@ -1,0 +1,80 @@
+[{
+        "id": "1",
+        "CategoryName": "Appliances",
+        "Products": [{
+            "id": "1",
+            "name": "Oven",
+            "price": "2444"
+        }, {
+            "id": "2",
+            "name": "Dryer",
+            "price": "4544"
+        }, {
+            "id": "3",
+            "name": "Washing machine",
+            "price": "454456"
+        }, {
+            "id": "4",
+            "name": "refrigerator",
+            "price": "454456"
+        }]
+    }, {
+        "id": "2",
+        "CategoryName": "furniture",
+        "Products": [{
+            "id": "1",
+            "name": "Plastic",
+            "price": "345"
+        }, {
+            "id": "2",
+            "name": "Table",
+            "price": "3536"
+        }, {
+            "id": "3",
+            "name": "Chairs",
+            "price": "46457"
+        }]
+    }, {
+        "id": "3",
+        "CategoryName": "dishes",
+        "Products": [{
+            "id": "1",
+            "name": "Knives",
+            "price": "46476"
+        }, {
+            "id": "2",
+            "name": "Forks",
+            "price": "466876"
+        }, {
+            "id": "3",
+            "name": "Spoons",
+            "price": "6688"
+        }, {
+            "id": "4",
+            "name": "Plates",
+            "price": "686"
+        }, {
+            "id": "5",
+            "name": "Glasses",
+            "price": "686"
+        }]
+    }, {
+        "id": "4",
+        "CategoryName": "Toys",
+        "Products": [{
+            "id": "1",
+            "name": "Chapel",
+            "price": "686"
+        }, {
+            "id": "2",
+            "name": "Lego",
+            "price": "6868"
+        }, {
+            "id": "3",
+            "name": "Clicks",
+            "price": "686"
+        }]
+    }
+
+
+]
